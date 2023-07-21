@@ -45,6 +45,4 @@ programming journey.
 
 Godspeed!
 
-Godspeed!
-
 
