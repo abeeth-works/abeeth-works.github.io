@@ -1,23 +1,16 @@
-I like tinkering with things. 
+This will be more about documentation and learnings, and
+less of a portfolio because well, it doesn't quite feel rght
+to take sample projects that are completed during/for a course
+and put them up on a portfolio now does it?
 
-Taking things apart and putting them back together; got reprimanded
-for doing that so many times as a kid you'd think I would have
-grown out of it, but I haven't. 
-
-I'm documenting my second foray into the world of programming here.
-After how things worked out the last time; now I have a better idea
-of steering the waters of 'self-taught', or so I like to think!
-
-**All projects since June 13 - 2023 (latest on top)**
-
-| Project | Language | Key elements/features |
-|---------|----------|-----------------------| 
-|         |          |                       | 
+There will be dedicated sections once some of the more interesting projects
+that I've set up for myself start to get interesting, right now,
+they are more in an infant stage and need a lot more work and time to
+be put into them before anyone would give them a second glance.
 
 **Documentation - Projects and Concepts**
 
-_sort out categorisation_
-
-| col | col | col |
-|-----|-----|-----|
-|     |     |     | 
+| Language | Library | Technique | Url |
+|----------|---------|-----------|-----|
+|          |         |           |     |
+|          |         |           |     |
